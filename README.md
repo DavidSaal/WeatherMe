@@ -22,7 +22,7 @@ https://DavidSaal.github.io/WeatherMe
 ### Build Setup
 
 ```
-//Clone/Fork the repo
+// Clone the repo
 
 // Go cloned folder
 cd WeatherMe
