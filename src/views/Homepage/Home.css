@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css?family=Rubik:300,400,700&display=swap");
+
+* {
+  font-family: Rubik, sans-serif;
+}
+
+body {
+  background-image: url("../../assets/images/background.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.fw-500 {
+  font-weight: 500 !important;
+}
+
+.py-06 {
+  padding-top: 0.6rem !important;
+  padding-bottom: 0.6rem !important;
+}
+
+.favorite {
+  background: whitesmoke;
+  color: rgba(0, 0, 0, 0.6);
+  text-shadow: 2px 8px 6px rgba(0, 0, 0, 0.2),
+    0px -5px 16px rgba(255, 255, 255, 0.3);
+}
+
+.favorite:hover {
+  box-shadow: 0 14px 28px rgba(255, 255, 255, 0.25),
+    0 10px 10px rgba(255, 255, 255, 0.123) !important;
+}
+
+.text-shadow-dark {
+  opacity: 0.5;
+  text-shadow: 2px 8px 6px rgba(0, 0, 0, 0.3),
+    0px -5px 16px rgba(255, 255, 255, 0.4);
+}
+
+.text-shadow-white {
+  text-shadow: 0px -1px 30px rgb(255, 255, 255);
+}
+
+.display-7 {
+  font-size: 1.5vw;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+.me-6 {
+  margin-right: 9.5rem !important;
+}
+
+.ms-6 {
+  margin-left: 4.5rem !important;
+}

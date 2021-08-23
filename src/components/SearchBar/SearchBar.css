@@ -1,0 +1,21 @@
+.icon {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 0.5rem;
+  margin-left: -2rem;
+  transform: translate(-50%, -50%);
+  height: 14px;
+  width: 14px;
+  font-size: 14px;
+  color: #c5c5c5;
+  background-image: url("../../assets/images/searchIcon.png");
+  top: 4.5rem;
+}
+
+.btn-white:hover {
+  background-color: #eff0f1 !important;
+}
+
+.btn-white {
+  background-color: #fff !important;
+}
