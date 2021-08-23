@@ -1,22 +1,26 @@
-WeatherMe.gif# WeatherMe
+# WeatherMe
+
 <img src="assets/WeatherMe.gif" alt="Video Preview" />
 
 ### Introduction
+
 React weather application that receives information through API.<br>
 The app allow you to search a specific city and add it to favorites. The app displays current data and data of 5 days of the week.<br>
-There is a an Dark Mode option and a choose between Celsius and Farhanheit.
+There is a an Dark Mode option and a choose between Celsius and Fahrenheit.
 
 ### NPM Packages
+
 - React
 - Redux
 - Router
 - Bootstrap
 
 ### Build Setup
+
 ```
 //Clone/Fork the repo
 
-// Go clonned folder
+// Go cloned folder
 cd WeatherMe
 
 // Install node modules
