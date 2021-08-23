@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/WeatherMe/static/css/main.c1deb6b6.chunk.css",
-    "main.js": "/WeatherMe/static/js/main.9a8dbc2b.chunk.js",
-    "main.js.map": "/WeatherMe/static/js/main.9a8dbc2b.chunk.js.map",
+    "main.js": "/WeatherMe/static/js/main.e90c363c.chunk.js",
+    "main.js.map": "/WeatherMe/static/js/main.e90c363c.chunk.js.map",
     "runtime-main.js": "/WeatherMe/static/js/runtime-main.a1935925.js",
     "runtime-main.js.map": "/WeatherMe/static/js/runtime-main.a1935925.js.map",
     "static/css/2.f90af0db.chunk.css": "/WeatherMe/static/css/2.f90af0db.chunk.css",
-    "static/js/2.f94e84e8.chunk.js": "/WeatherMe/static/js/2.f94e84e8.chunk.js",
-    "static/js/2.f94e84e8.chunk.js.map": "/WeatherMe/static/js/2.f94e84e8.chunk.js.map",
+    "static/js/2.44a16ba1.chunk.js": "/WeatherMe/static/js/2.44a16ba1.chunk.js",
+    "static/js/2.44a16ba1.chunk.js.map": "/WeatherMe/static/js/2.44a16ba1.chunk.js.map",
     "index.html": "/WeatherMe/index.html",
     "static/css/2.f90af0db.chunk.css.map": "/WeatherMe/static/css/2.f90af0db.chunk.css.map",
     "static/css/main.c1deb6b6.chunk.css.map": "/WeatherMe/static/css/main.c1deb6b6.chunk.css.map",
-    "static/js/2.f94e84e8.chunk.js.LICENSE.txt": "/WeatherMe/static/js/2.f94e84e8.chunk.js.LICENSE.txt",
+    "static/js/2.44a16ba1.chunk.js.LICENSE.txt": "/WeatherMe/static/js/2.44a16ba1.chunk.js.LICENSE.txt",
     "static/media/Home.css": "/WeatherMe/static/media/background.c04b9438.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a1935925.js",
     "static/css/2.f90af0db.chunk.css",
-    "static/js/2.f94e84e8.chunk.js",
+    "static/js/2.44a16ba1.chunk.js",
     "static/css/main.c1deb6b6.chunk.css",
-    "static/js/main.9a8dbc2b.chunk.js"
+    "static/js/main.e90c363c.chunk.js"
   ]
 }
