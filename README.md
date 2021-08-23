@@ -10,7 +10,8 @@ There is a an Dark Mode option and a choose between Celsius and Fahrenheit.
 
 ### Live Demo
 
-[link](https://DavidSaal.github.io/WeatherMe){:target="\_blank"}
+<a href="https://example.com" target="_blank" rel="noopener"><span>Example Text</span> </a>.
+
 <a href="https://DavidSaal.github.io/WeatherMe" target="_blank">https://DavidSaal.github.io/WeatherMe</a>
 
 ### NPM Packages
