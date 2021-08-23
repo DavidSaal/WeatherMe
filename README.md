@@ -10,7 +10,7 @@ There is a an Dark Mode option and a choose between Celsius and Fahrenheit.
 
 ### Live Demo
 
-<a href="https://example.com" target="_blank" rel="noopener"><span>Example Text</span> </a>.
+<a href="test.html" onclick="return ! window.open(this.href);">Open in a new window</a>
 
 <a href="https://DavidSaal.github.io/WeatherMe" target="_blank">https://DavidSaal.github.io/WeatherMe</a>
 
